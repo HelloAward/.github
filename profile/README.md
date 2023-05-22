@@ -32,4 +32,5 @@
 </table>
 
 <h2 width="100%">💌 Discord Server</h2>
+
 ![Discord Server](https://discordapp.com/api/guilds/971086130634182656/widget.png?style=banner2)
